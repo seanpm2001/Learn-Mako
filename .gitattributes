@@ -36,6 +36,10 @@
 *.less linguist-detectable=true
 *.less linguist-documentation=false
 *.less linguist-language=Less
+# Mako source file
+*.mako linguist-detectable=true
+*.mako linguist-documentation=false
+*.mako linguist-language=Mako
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -164,7 +168,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Tuesday, September 20th at 2:41 pm PST)
+# Line count (including blank lines and compiler line): 175
 # End of script
